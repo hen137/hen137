@@ -1,5 +1,6 @@
 :woman_technologist: About Me : [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-abramovich/)
 ---
+![](https://cdn.pixabay.com/animation/2023/10/08/03/19/03-19-27-845_256.gif)
 
 :hammer_and_wrench: Languages and Tools :
 ---
