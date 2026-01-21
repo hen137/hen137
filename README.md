@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3dWszb3owbzJsdHljNDBnam9wN3E5dHM4NTJlaG1memtkdXh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs6PlzCPQ6wXyBIUe8/giphy.gif" width=225>
+<img align="left" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA3dWszb3owbzJsdHljNDBnam9wN3E5dHM4NTJlaG1memtkdXh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qs6PlzCPQ6wXyBIUe8/giphy.gif" width=250>
 
 <h3 align="left">Web Dev Stack</h2>
 <div>
