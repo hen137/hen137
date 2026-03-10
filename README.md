@@ -11,7 +11,7 @@
 <ul align="left">
   <li>Software Engineering: designing and developing a <strong>proof of concept</strong> scalable architeture for a social diary platform - more soon to come!</li>
   <li>Bioplausible Deep Learning Research: previously assisted the YorkU LCRAIN Lab in simulating spiking neural networks on neuromorphic hardware</li>
-  <li>Creative Projects: always finding new ways to experiment creativly in mixed media projects such as circuit bending and touhcdesigner vfx</li>
+  <li>Creative Projects: always finding new ways to experiment creativly in mixed media projects such as circuit bending and touchdesigner vfx</li>
 </ul>
 
 <!-- <h3 align="left">SECTION</h3>
