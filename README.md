@@ -5,7 +5,7 @@
 
 <h3 align="center">Lately I read more about code than actually coding... but its about knowing how the pieces all fit together first.</h3>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1MHRmdzFsc2N0eXg3bjJyN2tkOHhqMDZpcW1sMXJpOTRsN3U5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" width=225>
+<!-- <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN1MHRmdzFsc2N0eXg3bjJyN2tkOHhqMDZpcW1sMXJpOTRsN3U5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kReKcfrs1YoTmt2AQt/giphy.gif" width=225> -->
 
 <h3 align="left">What I Do</h3>
 <ul align="left">
