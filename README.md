@@ -14,7 +14,7 @@
   <li></li>
 </ul>
 
-<h3 align="left">My AI Ethos:</h3>
+<h3 align="left">SECTION</h3>
 <p align="left">test</p>
 
 <br>
