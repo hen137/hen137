@@ -9,7 +9,7 @@
 
 <h3 align="left">What I Do</h3>
 <ul align="left">
-  <li>Software Engineering: designing and developing a <strong>proof of concept</strong> scalable architeture for a social diary platform - more soon to come!</li>
+  <li>Software Engineering: designing and developing a <strong>proof of concept</strong> scalable backend for a social diary platform</li>
   <li>Bioplausible Deep Learning Research: previously assisted the YorkU LCRAIN Lab in simulating spiking neural networks on neuromorphic hardware</li>
   <li>Creative Projects: always finding new ways to experiment creatively in mixed media projects such as circuit bending and touchdesigner vfx</li>
 </ul>
